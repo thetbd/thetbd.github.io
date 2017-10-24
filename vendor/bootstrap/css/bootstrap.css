@@ -5713,7 +5713,7 @@ a.bg-danger:focus, a.bg-danger:hover {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #F5D0FF !important;
 }
 
 a.bg-light:focus, a.bg-light:hover {
@@ -5721,7 +5721,7 @@ a.bg-light:focus, a.bg-light:hover {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #96FDF6 !important;
 }
 
 a.bg-dark:focus, a.bg-dark:hover {
